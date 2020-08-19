@@ -3,7 +3,8 @@
 # Here we used CNN model to train wake and sleep data of a driver
 # The model file and data set can be found in this drive link : 
 # There are several files in the repository
-# pred_file is the main program
+# pred_file.ipynb is the main program
+# pred_file.html is the html version
 # Download model file "cnn_model.h5" from the google drive: https://drive.google.com/drive/folders/18fwa8AHzcACraW1Zxlk4gFIlkBda-Tj9, this is imported in line 11 of the code
 # there are 4 sample files, 2 sleep and 2 awake in this repository 
 # can be used for testing if needed(in line 8 of the code), rest all the files can be found in the drive - DATA_SET folder
