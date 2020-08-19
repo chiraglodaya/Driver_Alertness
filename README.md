@@ -4,7 +4,7 @@
 # The model file and data set can be found in this drive link : 
 # There are several files in the repository
 # pred_file is the main program
-# Download model file "cnn_model.h5" from the google drive, this is imported in line 11 of the code
+# Download model file "cnn_model.h5" from the google drive: https://drive.google.com/drive/folders/18fwa8AHzcACraW1Zxlk4gFIlkBda-Tj9, this is imported in line 11 of the code
 # there are 4 sample files, 2 sleep and 2 awake in this repository 
-# can be used for testing if needed, all the files can be found in the drive
-# report of the project is uploaded as well, read through if required
+# can be used for testing if needed(in line 8 of the code), rest all the files can be found in the drive - DATA_SET folder
+# report of the project is uploaded as well, read through if required - capstone_project_24may_rev copy.pdf
